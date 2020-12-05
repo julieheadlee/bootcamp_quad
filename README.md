@@ -17,7 +17,7 @@ Compare the following to state categorical data…
 -	economics
     -	tax revenue, gross GDP, employment/job growth, retail sales (specific sectors)
 -	crime
-    -	rates of violent crimes, and petty crime, traffic crime
+    -	rates of violent crimes, petty crime, traffic crime
 -	health 
     -	substance abuse treatment rates, effects on mental health 
     
