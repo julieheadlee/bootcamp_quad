@@ -8,7 +8,7 @@ Travis Stowell, Scott Martin, Julia Headlee, Erik Watson, Ashwini Kamat
 
 General Project Description:
 -	Identify states by major categories: fully legalized, medicinal and decriminalized, decriminalized, fully illegal, and year of legalization
--	Also focus on single state (California) and study history
+-	Also focus on single state (Colorado) and study history
 
 Question to Answer:
 What is the impact of loosening regulations or legalization of marijuana on healthcare, crime rates, and various economic factors in the United States?
